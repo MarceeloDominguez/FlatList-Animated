@@ -1,3 +1,4 @@
 # FlatList-Animated
 
-![video-gif](https://user-images.githubusercontent.com/70117105/195385289-87604e03-130c-45ac-b991-bbdaf6bb394c.gif)
+
+![video-gif-2](https://user-images.githubusercontent.com/70117105/195386412-1c561d6e-4bbc-455c-8907-10a8f2ccfd72.gif)
